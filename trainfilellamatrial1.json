@@ -1,0 +1,12 @@
+{
+   "response": "positive",
+   "prompt": "Human : Please determine the sentiment of this financial news as positive, negative or neutral : \"`` The announced investment of the carmaker Hyundai for example sounds optimistically for us as of course new cars mean new tires . ''\""
+ },
+ {
+   "response": "neutral",
+   "prompt": "Human : Please determine the sentiment of this financial news as positive, negative or neutral : \"A total of 750,330 new Citycon shares with a nominal value of EUR 1.35 per share were subscribed in December exercising the A-B-C options based on the company 's stock option plan 1999 .\""
+ },
+ {
+   "response": "neutral",
+   "prompt": "Human : Please determine the sentiment of this financial news as positive, negative or neutral : \"So far as is known , he did not sell shares that he owns personally .\""
+ }
